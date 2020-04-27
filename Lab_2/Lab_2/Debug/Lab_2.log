@@ -1,0 +1,4 @@
+﻿  Lab_2.cpp
+C:\Users\Любомир Марков\source\repos\Lab_2\Lab_2\Lab_2.cpp(52,29): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Любомир Марков\source\repos\Lab_2\Lab_2\Lab_2.cpp(53,34): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  Lab_2.vcxproj -> C:\Users\Любомир Марков\source\repos\Lab_2\Debug\Lab_2.exe
