@@ -1,0 +1,5 @@
+﻿  Lab_5.cpp
+C:\Users\Любомир Марков\source\repos\Lab_5\Lab_5\Lab_5.cpp(82): error C4716: CHuman::operator*: должна возвращать значение
+C:\Users\Любомир Марков\source\repos\Lab_5\Lab_5\Lab_5.cpp(97): error C4716: CHuman::operator<: должна возвращать значение
+C:\Users\Любомир Марков\source\repos\Lab_5\Lab_5\Lab_5.cpp(111): error C4716: CHuman::operator>: должна возвращать значение
+C:\Users\Любомир Марков\source\repos\Lab_5\Lab_5\Lab_5.cpp(68): error C4716: CHuman::operator+: должна возвращать значение
